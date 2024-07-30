@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFkMGw0NjlrbnBiajY4dzVwY3l1YjYyeTAzOTF0YjFqMnkydnJybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="400">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHU5NWhmbHMyeXVoNTBoNjM3eGdoM2w5NDg5ZHduMHZjY3B1YTVoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="400">
   <br>
   <h1>Hi, I'm Juan Puertas</h1> 
 </div>
