@@ -17,6 +17,7 @@
 
 <p align="center">
   https://github-readme-stats.vercel.app/api?username=juanpuertas&theme=tokyonight&show_icons=true&hide_border=false&count_private=true
-  <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=juanpuertas&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=juanpuertas&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=juanpuertas&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=juanpuertas&theme=tokyonight&hide_border=false"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpuertas&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 </p>
