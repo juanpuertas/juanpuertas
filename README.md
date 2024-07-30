@@ -1,4 +1,5 @@
-<img src="https://giphy.com/embed/CrFLL3CnRpw5ddlBMm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CleverCodeLab-cat-cute-coffee-CrFLL3CnRpw5ddlBMm">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/CrFLL3CnRpw5ddlBMm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/CleverCodeLab-cat-cute-coffee-CrFLL3CnRpw5ddlBMm">via GIPHY</a></p>
+<br>
 <div align="center">
   <h1>Hi, I'm Juan Puertas</h1> 
 </div>
