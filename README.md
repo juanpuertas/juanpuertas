@@ -1,6 +1,7 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/CrFLL3CnRpw5ddlBMm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/CleverCodeLab-cat-cute-coffee-CrFLL3CnRpw5ddlBMm">via GIPHY</a></p>
-<br>
+
 <div align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFkMGw0NjlrbnBiajY4dzVwY3l1YjYyeTAzOTF0YjFqMnkydnJybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="400">
+  <br>
   <h1>Hi, I'm Juan Puertas</h1> 
 </div>
 <p>A web software developer with expertise in technologies such as React.js, Next.js, Node.js, Express.js, and MongoDB. I focus on creating efficient and scalable web applications, aiming to deliver exceptional user experiences and meet business objectives effectively.</p>
