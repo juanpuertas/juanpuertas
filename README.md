@@ -14,3 +14,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
 </div>
+
+<p align="center">
+  <img height="165cm" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juanpuertas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=DBCBB8&icon_color=DBCBB8&text_color=DBCBB8&bg_color=241914"/>
+  <img height="165cm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanpuertas&layout=compact&langs_count=8&hide_border=true&title_color=DBCBB8&icon_color=DBCBB8&text_color=DBCBB8&bg_color=241914"/>
+</p>
