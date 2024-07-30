@@ -16,6 +16,7 @@
 </div>
 
 <p align="center">
-  <img height="165cm" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juanpuertas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=DBCBB8&icon_color=DBCBB8&text_color=DBCBB8&bg_color=241914"/>
-  <img height="165cm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanpuertas&layout=compact&langs_count=8&hide_border=true&title_color=DBCBB8&icon_color=DBCBB8&text_color=DBCBB8&bg_color=241914"/>
+  https://github-readme-stats.vercel.app/api?username=juanpuertas&theme=tokyonight&show_icons=true&hide_border=false&count_private=true
+  <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=juanpuertas&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=juanpuertas&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
 </p>
