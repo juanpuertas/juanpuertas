@@ -6,7 +6,7 @@
 </div>
 <p>A web software developer with expertise in technologies such as React.js, Next.js, Node.js, Express.js, and MongoDB. I focus on creating efficient and scalable web applications, aiming to deliver exceptional user experiences and meet business objectives effectively.</p>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; width:100%">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; width:100%">
   <h2 style="width: 100%; text-align: center;">Technologies</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" style="margin: 0 10px;"/>
